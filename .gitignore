@@ -1,0 +1,17 @@
+# Ignore secret keys and user data files
+secret.key
+users.json
+data.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files (if any)
+.env
+
+# Streamlit logs (optional)
+.streamlit/
+
+# VSCode settings (if using VSCode)
+.vscode/
